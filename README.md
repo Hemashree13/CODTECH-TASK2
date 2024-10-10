@@ -8,7 +8,7 @@
 
 ## OVERVIEW OF THE PROJECT
 ## PROJECT: Recipe Sharing Full Stack App (MERN Stack)
-![08ae37ac-df54-419c-b401-008d70f0fea9](https://github.com/user-attachments/assets/eeaf9eab-92f9-4446-bf16-ef0cd6ddff4a)
+![08ae37ac-df54-419c-b401-008d70f0fea9](https://github.com/user-attachments/assets/eeaf9eab-92f9-4446-bf16-ef0cd6ddff4a)  
 ![55e42998-3f04-48cf-9cb6-9afe0cad44b7](https://github.com/user-attachments/assets/8aa87a1a-4410-4ad3-8ad8-1626ac1ead32)
 ![298b4f09-4a31-456a-9d30-beb3d7515637](https://github.com/user-attachments/assets/a94791fc-0e05-4a65-9c0a-6045b42d503d)
 
